@@ -1,0 +1,4 @@
+log.txt
+/dir2
+*.txt
+#this * sign is reffer to all txt files.
